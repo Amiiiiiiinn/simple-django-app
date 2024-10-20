@@ -1,3 +1,5 @@
+# Below are few commands ...
+
 git init # Initialize a new repository
 git clone <repo-url> # Clone a repository
 git status # Show the working directory status
